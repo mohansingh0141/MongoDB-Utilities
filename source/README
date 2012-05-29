@@ -1,0 +1,16 @@
+MongoDB Utilities :
+
+Author : Mohan Singh 
+-------------------------------------------------------------------------------
+
+The Project is built with aim to help developers who are using mongoDB
+as their database.
+
+Utilities help developers use MongoDB queries in a fashion just like
+a function call and let the developer free from creating Objects again and again.
+
+Utility functions are able to handle most of the general purpose queries.
+-------------------------------------------------------------------------------
+
+MongoDB Java Driver is a Pre Requisite.
+
